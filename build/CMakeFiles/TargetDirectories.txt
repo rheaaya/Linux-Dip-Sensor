@@ -1,0 +1,3 @@
+/home/yamini/ensc351/work/as2/build/CMakeFiles/light_sampler.dir
+/home/yamini/ensc351/work/as2/build/CMakeFiles/edit_cache.dir
+/home/yamini/ensc351/work/as2/build/CMakeFiles/rebuild_cache.dir
